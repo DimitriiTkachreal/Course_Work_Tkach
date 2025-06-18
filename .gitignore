@@ -1,0 +1,13 @@
+*.exe
+*.o
+*.obj
+*.cbp
+*.layout
+*.depend
+*.log
+*.tmp
+*.bak
+bin/
+obj/
+Debug/
+Release/
